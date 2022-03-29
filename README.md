@@ -2,7 +2,7 @@
 - 👀 I love science, technology and the ocean.
 - 🌱 I’m currently learning how to be happy while becoming an adult
 - 💞️ I’m pretty full of stuff right now, so colaborations will have to wait 😅
-- 📫 You can reach me sending an e-mail to: sgsilvas96@gmail.com
+- 📫 You can reach me sending an e-mail to: ssilva@mpi-bremen.de
 
 <!---
 SebaSilvaS/SebaSilvaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
